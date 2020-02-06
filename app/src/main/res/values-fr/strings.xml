@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyAppBundle - Compte sur moi</string>
+    <string name="app_name1">Compte sur moi</string>
+    <string name="action_settings">Réglages</string>
+
+    <string-array name="numbers">
+        <item>un</item>
+        <item>deux</item>
+        <item>trois</item>
+        <item>quatre</item>
+        <item>cinq</item>
+        <item>six</item>
+        <item>sept</item>
+        <item>huit</item>
+        <item>neuf</item>
+        <item>dix</item>
+    </string-array>
+
+</resources>

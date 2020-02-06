@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyAppBundle - Count on me</string>
+    <string name="app_name1">Count on me</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="numbers">
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+        <item>four</item>
+        <item>five</item>
+        <item>six</item>
+        <item>seven</item>
+        <item>eight</item>
+        <item>nine</item>
+        <item>ten</item>
+    </string-array>
+
+
+</resources>

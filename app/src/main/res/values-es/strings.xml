@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyAppBundle - Cuenta conmigo</string>
+    <string name="app_name1">Cuenta conmigo</string>
+    <string name="action_settings">Ajustes</string>
+
+    <string-array name="numbers">
+        <item>uno</item>
+        <item>dos</item>
+        <item>tres</item>
+        <item>cuatro</item>
+        <item>cinco</item>
+        <item>seis</item>
+        <item>siete</item>
+        <item>ocho</item>
+        <item>nueve</item>
+        <item>diez</item>
+    </string-array>
+
+</resources>
